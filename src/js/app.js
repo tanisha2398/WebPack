@@ -1,5 +1,5 @@
-require("./style.css");
-let people = require("./people.js");
+require("../css/style.css");
+let people = require("../js/people.js");
 let $ = require("jquery");
 // $("body").append("<h1>" + people[0].name + "</h1>");
 
